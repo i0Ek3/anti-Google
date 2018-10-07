@@ -5,7 +5,7 @@ deG is an anti-Goolge plan, which goal is protect users' privacy.
 
 ## Version
 
-English | [Chinese]()
+English | [Chinese](https://github.com/i0Ek3/deG/blob/master/README_cn.md?1538876440461)
 
 
 ## Contents

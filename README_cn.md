@@ -5,7 +5,7 @@ deG是一项反Google计划，其目的旨在保护用户的隐私。
 
 ## 语言版本
 
-[中文]() | 英文
+中文 | [英文](https://github.com/i0Ek3/deG/blob/master/README.md?1538876488468)
 
 
 ## 目录
