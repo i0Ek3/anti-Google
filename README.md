@@ -22,9 +22,9 @@ English | [Chinese](https://github.com/i0Ek3/deG/blob/master/README_cn.md?153887
 - Google Chrome --> Firefox or Vivaldi, [ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
 - Gmail --> [ProtonMail](https://protonmail.com/)
 - Google Search --> [Duck Duck Go](https://duckduckgo.com/)
-- --> []()
-- --> []()
-- --> []()
+- Google Play --> [F-droid](https://f-droid.org/en/)
+- Youtube --> [Hooktube](https://hooktube.com/)
+- Hangouts --> Telegram or What's up
 - --> []()
 
 
