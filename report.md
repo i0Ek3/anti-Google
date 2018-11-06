@@ -2,7 +2,5 @@
 
 - [https://www.pingwest.com/a/13953](https://www.pingwest.com/a/13953)
 - [https://steemit.com/crypto/@iyouport/google](https://steemit.com/crypto/@iyouport/google)
-- [https://www.appinn.com/no-more-google/](https://www.appinn.com/no-more-google/)
-- [https://linux.cn/article-9961-1.html](https://linux.cn/article-9961-1.html)
-- []()
+- [https://medium.com/s/story/how-i-fully-quit-google-and-you-can-too-4c2f3f85793a](https://medium.com/s/story/how-i-fully-quit-google-and-you-can-too-4c2f3f85793a)
 - []()
