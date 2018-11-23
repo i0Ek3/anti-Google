@@ -1,6 +1,6 @@
 # anti-Google
 
-> Away from Googlem, get free.
+> Good bye Google, hello freedom.
 
 The goal of this plan is protect users' privacy.
 
@@ -23,11 +23,11 @@ English | [Chinese](https://github.com/i0Ek3/deG/blob/master/README_cn.md?153887
 ## Substitute
 
 - Google Chrome --> Firefox or Vivaldi, [ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
-- Gmail --> [ProtonMail](https://protonmail.com/) or Fastmail
+- Google Gmail --> [ProtonMail](https://protonmail.com/) or Fastmail
 - Google Search --> ~~[Duck Duck Go](https://duckduckgo.com/)~~ [Startpage](https://www.startpage.com)
 - Google Play --> [F-droid](https://f-droid.org/en/)
 - Youtube --> [Hooktube](https://hooktube.com/)
-- Hangouts --> Telegram or What's up
+- Hangouts --> Telegram
 - --> []()
 
 
