@@ -1,4 +1,4 @@
-# deG
+# anti-Google
 
 > 远离谷歌，重获自由。
 
