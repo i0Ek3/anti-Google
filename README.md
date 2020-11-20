@@ -5,13 +5,6 @@
 The goal of this plan is protect users' privacy.
 
 
-![]()
-
-## Version
-
-English | [Chinese](https://github.com/i0Ek3/deG/blob/master/README_cn.md?1538876440461)
-
-
 ## Contents
 
 * [Version](#version)
@@ -22,13 +15,13 @@ English | [Chinese](https://github.com/i0Ek3/deG/blob/master/README_cn.md?153887
 
 ## Substitute
 
-- Google Chrome --> Firefox or Vivaldi, [ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
-- Google Gmail --> [ProtonMail](https://protonmail.com/) or Fastmail
+- Google Chrome --> Firefox, Brave, [ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
+- Google Gmail --> [ProtonMail](https://protonmail.com/), Fastmail, K-9
 - Google Search --> ~~[Duck Duck Go](https://duckduckgo.com/)~~ [Startpage](https://www.startpage.com)
-- Google Play --> [F-droid](https://f-droid.org/en/)
-- Youtube --> [Hooktube](https://hooktube.com/)
-- Hangouts --> Telegram
-- --> []()
+- Google Play --> [F-droid](https://f-droid.org/en/), Aurora
+- Youtube --> NewPipe, FreeTube
+- Hangouts --> Telegram, Signal, WhatsApp
+- [...](https://www.reddit.com/r/degoogle/comments/g1yu01/google_alternatives_huge_list_restore_your_privacy/)
 
 
 ## Some Words
@@ -39,12 +32,15 @@ In fact, I have a very special online habit and need a little Google service. Ho
 Why not call it "Privacy Defense War", how do you think? 
 
 
-
 ## Ref
 
 - [Delete Google](https://restoreprivacy.com/delete-google/)
 - [No More Google](https://nomoregoogle.com/?ref=appinn)
+- [Surveillance Self-Defense](https://ssd.eff.org/en)
+- [privacytools](https://privacytools.twngo.xyz/)
 - [restoreprivacy](https://restoreprivacy.com/)
 - [prism-break](https://prism-break.org/en/)
+- [Degoogle](https://degoogle.jmoore.dev)
+- [Google Alternatives huge list restore your privacy](https://www.reddit.com/r/degoogle/comments/g1yu01/google_alternatives_huge_list_restore_your_privacy/)
 - [More report...](https://github.com/i0Ek3/deG/blob/master/report.md)
 
